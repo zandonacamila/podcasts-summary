@@ -1,0 +1,2 @@
+this is where I'm going to write summaries for the podcasts I'm listening - because it's an interesting way of learning and sharing!
+- it's still not well formatted, but I started it today (26/03/21), eventually things will improve!

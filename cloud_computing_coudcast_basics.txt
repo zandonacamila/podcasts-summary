@@ -1,0 +1,12 @@
+# previous topics need coverage
+#.
+#.
+#.
+#.
+#.
+# pricing
+- on-demand pricing (buy things in advance)
+# the nice thing about cloud computing
+- you're not locked onto one kind of buying
+- several options of buying
+# next show: storage on cloud computing
